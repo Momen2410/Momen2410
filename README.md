@@ -9,18 +9,22 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone projects and raise issues if you think something could be better.
 
-<div align="center">
 
-## **Professional Experience**
-
-With over **20 years of experience** in **software development**, I have specialized in **designing, testing, and maintaining robust software solutions** across diverse industries. My career has been fueled by a commitment to **innovation** and delivering **high-quality products**. I have proudly contributed to impactful global platforms, including **Apple CoreML**, **Cisco's SRTP (Secure Real-time Transport Protocol)**, and the **PayPal SDK**.
-
-### **Core Expertise**:
-- **Software Development**: Crafting scalable and reliable solutions.
-- **AI Research**: Pioneering in cutting-edge technologies.
-- **Business Innovation**: Driving success through strategic problem-solving.
-<div dir="ltr" style="text-align: left">
-This text has left-to-right direction.
+<div style="direction: ltr; text-align: left;">
+  <h2><strong>Professional Experience</strong></h2>
+  <p>
+    With over <strong>20 years of experience</strong> in <strong>software development</strong>, I have specialized in 
+    <strong>designing, testing, and maintaining robust software solutions</strong> across diverse industries. My 
+    career has been fueled by a commitment to <strong>innovation</strong> and delivering <strong>high-quality products</strong>. 
+    I have proudly contributed to impactful global platforms, including <strong>Apple CoreML</strong>, 
+    <strong>Cisco's SRTP (Secure Real-time Transport Protocol)</strong>, and the <strong>PayPal SDK</strong>.
+  </p>
+  <h3><strong>Core Expertise:</strong></h3>
+  <ul>
+    <li><strong>Software Development:</strong> Crafting scalable and reliable solutions.</li>
+    <li><strong>AI Research:</strong> Pioneering in cutting-edge technologies.</li>
+    <li><strong>Business Innovation:</strong> Driving success through strategic problem-solving.</li>
+  </ul>
 </div>
 
 
