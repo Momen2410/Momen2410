@@ -13,18 +13,11 @@ Please feel free to clone projects and raise issues if you think something could
 <div style="direction: ltr; text-align: left;">
   <h2><strong>Professional Experience</strong></h2>
   <p>
-    With over <strong>20 years of experience</strong> in <strong>software development</strong>, I have specialized in 
-    <strong>designing, testing, and maintaining robust software solutions</strong> across diverse industries. My 
-    career has been fueled by a commitment to <strong>innovation</strong> and delivering <strong>high-quality products</strong>. 
-    I have proudly contributed to impactful global platforms, including <strong>Apple CoreML</strong>, 
-    <strong>Cisco's SRTP (Secure Real-time Transport Protocol)</strong>, and the <strong>PayPal SDK</strong>.
+    Experienced AI & NLP Engineer with a robust background in Natural Language Processing (NLP). Proficient in classical machine learning and deep learning   
+    techniques such as RNN, LSTM, CNN, GRU, and Transformers. Proven expertise in developing and deploying NLP solutions, including Retrieval-Augmented Generation 
+    (RAG) models, to address complex language understanding and generation tasks. Skilled in managing end-to-end NLP projects from data preprocessing to model 
+    evaluation and deployment. Passionate about leveraging AI technologies to drive innovation and enhance user experiences.
   </p>
-  <h3><strong>Core Expertise:</strong></h3>
-  <ul>
-    <li><strong>Software Development:</strong> Crafting scalable and reliable solutions.</li>
-    <li><strong>AI Research:</strong> Pioneering in cutting-edge technologies.</li>
-    <li><strong>Business Innovation:</strong> Driving success through strategic problem-solving.</li>
-  </ul>
 </div>
 
 
