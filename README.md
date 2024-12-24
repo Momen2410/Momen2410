@@ -11,6 +11,16 @@ Please feel free to clone projects and raise issues if you think something could
 
 <div align="center">
 
+## **Professional Experience**
+
+With over **20 years of experience** in **software development**, I have specialized in **designing, testing, and maintaining robust software solutions** across diverse industries. My career has been fueled by a commitment to **innovation** and delivering **high-quality products**. I have proudly contributed to impactful global platforms, including **Apple CoreML**, **Cisco's SRTP (Secure Real-time Transport Protocol)**, and the **PayPal SDK**.
+
+### **Core Expertise**:
+- **Software Development**: Crafting scalable and reliable solutions.
+- **AI Research**: Pioneering in cutting-edge technologies.
+- **Business Innovation**: Driving success through strategic problem-solving.
+
+
 
 <i>Follow me:</i><br>
 
