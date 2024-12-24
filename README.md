@@ -19,6 +19,10 @@ With over **20 years of experience** in **software development**, I have special
 - **Software Development**: Crafting scalable and reliable solutions.
 - **AI Research**: Pioneering in cutting-edge technologies.
 - **Business Innovation**: Driving success through strategic problem-solving.
+<div dir="ltr" style="text-align: left">
+This text has left-to-right direction.
+</div>
+
 
 
 
